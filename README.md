@@ -1,3 +1,5 @@
 # Employees Management Salary Analysis(SQL, MySQL)
 •  Designed and analyzed an Employees Database using MySQL to solve real-world HR and
     payroll business problems from multiple related tables.
+
+•  Wrote SQL queries and aggregate functions to retrieve and summarize employee’s data.
