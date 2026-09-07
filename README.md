@@ -3,3 +3,5 @@
     payroll business problems from multiple related tables.
 
 •  Wrote SQL queries and aggregate functions to retrieve and summarize employee’s data.
+
+• Practical knowledge of MySQL, Relational Database Management, Joins, Subqueries, Window Functions, Aggregate Functions, and Data Analysis through hands-on SQL problem-solving.
